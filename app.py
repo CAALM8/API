@@ -1,10 +1,15 @@
 import streamlit as st
 import json
+import os
 
 st.set_page_config(page_title="Museum Collections API", page_icon="🎨", layout="wide")
 
-# Load collection data
-with open("collection_data.json", "r", encoding="utf-8") as f:
+# 获取当前脚本目录
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# 加载 collection 数据
+data_file = os.path.join(BASE_DIR, "collection_data.json")
+with open(data_file, "r", encoding="utf-8") as f:
     collections = json.load(f)
 
 st.title("🎨 Museum Collections Search API")
