@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Dog in the Garden",
+        "museum": "The Metropolitan Museum of Art",
+        "period": "19th Century",
+        "description": "A charming painting depicting a dog playing in a lush garden.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Dog_in_the_Garden.jpg"
+    },
+    {
+        "name": "Sleeping Dog",
+        "museum": "The Louvre Museum",
+        "period": "18th Century",
+        "description": "An oil painting of a dog sleeping peacefully by the fireplace.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sleeping_Dog_Louvre.jpg"
+    },
+    {
+        "name": "Impression, Sunrise",
+        "museum": "Mus\u00e9e Marmottan Monet",
+        "period": "1872",
+        "description": "The iconic painting that gave Impressionism its name, depicting a harbor at sunrise.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Monet%2C_Impression%2C_soleil_levant.jpg"
+    },
+    {
+        "name": "Ancient Egyptian Sarcophagus",
+        "museum": "British Museum",
+        "period": "c. 1000 BCE",
+        "description": "A beautifully decorated sarcophagus from ancient Egypt.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Egyptian_Sarcophagus.jpg"
+    },
+    {
+        "name": "Dog Portrait by George Stubbs",
+        "museum": "Tate Britain",
+        "period": "1765",
+        "description": "Portrait of a hunting dog by famous British painter George Stubbs.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/George_Stubbs_Dog_Portrait.jpg"
+    }
+]
